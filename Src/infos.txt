@@ -1,0 +1,2 @@
+go-face-so + (to-face) + speechtotexttest + pdf-generator
+faceto@faceto.iam.gserviceaccount.com
